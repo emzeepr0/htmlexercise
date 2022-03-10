@@ -1,0 +1,42 @@
+
+
+#demobox {
+
+  background-color: #FFA500 ;
+  position: absolute;
+  left: 13%;
+  top: 45%;
+  width: 1100px;
+  padding: 0px ;
+  border: 1px solid green ;
+  text-align: center;
+  border: 1px solid white;
+ 
+
+}
+
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	style ="list-style-type": none;
+	font-size: 50px;
+	font-size: 50px;
+
+}
+
+li {
+	padding: 16px;
+	float: left;
+}
+
+li a {
+	text-decoration: none;
+}
+
+
+
+
+
